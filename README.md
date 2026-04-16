@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Computer Systems Engineer │ Software Developer│ Junior Full-Stack Developer</h3>
+<h3 align="center">Computer Systems Engineer │ Full-Stack Developer</h3>
 
 ###
 
